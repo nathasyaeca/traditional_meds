@@ -1,7 +1,7 @@
 Traditional Medicine Industry in Indonesia
 ================
 Nathasya Pramudita
-2023-08-01
+2023-02-01
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Medicine Industries in Indonesia**. The dataset is about:
 | total_prouct_by_categories    | 3 observant and 2 variables. Consist of the categories of product and total of each product                                                                           |
 | percentage_import_export      | With 3 observant and 3 variables that consist of total product of export and import, and percentage each sale                                                         |
 
-# Total registrant and Industry of Traditional Medicine in Indonesia
+# Total registrant and Industries of Traditional Medicine in Indonesia
 
 ``` r
 # Number of Registrant Manufacture of Traditional Medicine in Indonesia
